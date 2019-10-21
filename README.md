@@ -59,7 +59,7 @@ To check it the request sent to the groups to join is approved or not you have t
 
 * **Nikunj Singhal**  - [Github](https://github.com/PurpleBooth)
 * **Archit Agrawal**  - [Github](https://github.com/PurpleBooth)
-* **Shubham Mittal**  - [GitHub](https://github.com/PurpleBooth)
+* **Shubham Mittal**  - [GitHub](https://github.com/shubhammitt)
 
 ## Acknowledgments 💘💘💘
 
